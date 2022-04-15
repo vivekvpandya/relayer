@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["make_execute_proposal_key",""]],"struct":[["SignatureBridgeContractWatcher","A SignatureBridge contract events & commands watcher."],["SignatureBridgeContractWrapper","A Wrapper around the `SignatureBridgeContract` contract."]],"type":[["HttpProvider",""]]});

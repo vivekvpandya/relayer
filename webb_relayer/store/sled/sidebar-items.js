@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SledQueueKey","SledQueueKey is a key for a queue in Sled."]],"struct":[["SledStore","SledStore is a store that stores the history of events in  a Sled-based database."]]});

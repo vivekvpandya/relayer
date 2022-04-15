@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["handle_anchor_relay_tx","Handler for Anchor commands"]]});

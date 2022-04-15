@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ProposalHandlerWatcher","A ProposalHandler watcher for the DKG Substrate runtime. It watches for the `ProposalSigned` event and sends the proposal to the signature bridge."]]});

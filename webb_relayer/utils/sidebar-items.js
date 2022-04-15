@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["change_set_to_events","change_set_to_events converts a StorageChangeSet to a Vec of events."]],"struct":[["ClickableLink","Represents a clickable link containing text and url"]]});
